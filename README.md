@@ -1,4 +1,4 @@
-# camunda BPM - Getting Started Developing Process Applications with JavaEE 6
+# camunda BPM - Getting Started Developing Process Applications with JavaEE 7
 
 This Repository contains the example process application for the guide at [docs.camunda.org](https://docs.camunda.org/get-started/javaee7/).
 
